@@ -1,3 +1,4 @@
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=meirrrrr.meirrrrr)
 # Hi, I'm Meiirzhan 👋
 
 - I'm a web developer  
