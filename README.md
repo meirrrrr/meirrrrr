@@ -3,6 +3,6 @@
 
 - I'm a software engineer 
 - Studying Information systems in Suleyman Demirel University
-- My website https://www.meirr.blog/
+- My [website](https://www.meirr.blog/) &#128072
 
 Email → [meiirzhan04@gmail.com](mailto:meiirzhan04@gmail.com)
