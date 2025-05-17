@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=meirrrrr.meirrrrr&left_color=green&right_color=red)
+![](https://komarev.com/ghpvc/?username=DeFida)
 # Hi, I'm Meiirzhan 👋
 
 - I'm a web developer  
